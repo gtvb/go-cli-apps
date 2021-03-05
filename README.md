@@ -9,3 +9,7 @@ This repo contains some command line interfaces built to enhance my knowledge ab
 - :cow: gocowsay: simulates [cowsay](https://en.wikipedia.org/wiki/Cowsay). And it has a stegosaurus too 
 
 ## Screenshots :camera:
+![GoFortune](/screenshots/fortune.png)
+![GoLolcat](/screenshots/gololcat.png)
+![GoCowsay](/screenshots/cowsay.png)
+![Stegosaurus](/screenshots/lolcat-stegosaurus.png)
