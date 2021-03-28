@@ -1,6 +1,6 @@
-# Golang CLI Apps :rocket:
+# CLI Apps :rocket:
 
-This repo contains some command line interfaces built to enhance my knowledge about the [Go](https://golang.org/) programming language
+This repo contains some command line interfaces built to enhance my skills regarding the [Go](https://golang.org/) programming language
 
 ## Features :muscle:
 
